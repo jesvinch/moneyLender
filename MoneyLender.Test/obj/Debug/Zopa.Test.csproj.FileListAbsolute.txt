@@ -1,0 +1,24 @@
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\obj\Debug\Zopa.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Zopa.Test.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Zopa.Test.pdb
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Zopa.Services.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\CsvHelper.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Zopa.Services.pdb
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\bin\Debug\CsvHelper.xml
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\obj\Debug\Zopa.Test.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Test\obj\Debug\Zopa.Test.pdb
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Zopa.Test.dll.config
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Zopa.Test.dll
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Zopa.Test.pdb
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Castle.Core.dll
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Moq.dll
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Zopa.Services.dll
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\CsvHelper.dll
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Zopa.Services.pdb
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\Moq.xml
+C:\dev\localDev\Zopa\Zopa.Test\bin\Debug\CsvHelper.xml
+C:\dev\localDev\Zopa\Zopa.Test\obj\Debug\Zopa.Test.csprojResolveAssemblyReference.cache
+C:\dev\localDev\Zopa\Zopa.Test\obj\Debug\Zopa.Test.dll
+C:\dev\localDev\Zopa\Zopa.Test\obj\Debug\Zopa.Test.pdb

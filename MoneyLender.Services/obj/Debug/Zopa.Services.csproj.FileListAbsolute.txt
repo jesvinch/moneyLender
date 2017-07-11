@@ -1,0 +1,16 @@
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\Zopa.Services.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\Zopa.Services.pdb
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\CsvHelper.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\Zopa.exe
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\Zopa.pdb
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\bin\Debug\CsvHelper.xml
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\obj\Debug\Zopa.Services.csprojResolveAssemblyReference.cache
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\obj\Debug\Zopa.Services.dll
+C:\Users\Jesvin.Chalikkara\Documents\Visual Studio 2015\Projects\Zopa\Zopa.Services\obj\Debug\Zopa.Services.pdb
+C:\dev\localDev\Zopa\Zopa.Services\bin\Debug\Zopa.Services.dll
+C:\dev\localDev\Zopa\Zopa.Services\bin\Debug\Zopa.Services.pdb
+C:\dev\localDev\Zopa\Zopa.Services\bin\Debug\CsvHelper.dll
+C:\dev\localDev\Zopa\Zopa.Services\bin\Debug\CsvHelper.xml
+C:\dev\localDev\Zopa\Zopa.Services\obj\Debug\Zopa.Services.csprojResolveAssemblyReference.cache
+C:\dev\localDev\Zopa\Zopa.Services\obj\Debug\Zopa.Services.dll
+C:\dev\localDev\Zopa\Zopa.Services\obj\Debug\Zopa.Services.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\bin\Debug\Zopa.Services.dll
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\bin\Debug\Zopa.Services.pdb
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\bin\Debug\CsvHelper.dll
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\bin\Debug\CsvHelper.xml
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\obj\Debug\MoneyLender.Services.csprojResolveAssemblyReference.cache
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\obj\Debug\Zopa.Services.dll
+C:\Users\Jesvin.Chalikkara\Desktop\testing\MoneyLender\MoneyLender.Services\obj\Debug\Zopa.Services.pdb
